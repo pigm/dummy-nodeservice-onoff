@@ -1,0 +1,14 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "servicios de prueba",
+  "main": "dummy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AArce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

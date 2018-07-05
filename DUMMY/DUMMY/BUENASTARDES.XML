@@ -1,0 +1,872 @@
+[DEBUG] Merging /var/folders/7q/5zcnwj3j2g758v9g8nvsrq7m0000gn/T/118219-8597-bf0a08.14pyq1if6r/res/values/strings.xml => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values/values.xml
+[INFO]  Extracting module resources: /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-database.res.zip
+[DEBUG] Merging /var/folders/7q/5zcnwj3j2g758v9g8nvsrq7m0000gn/T/118219-8597-qyd5qm.eac9fcg14i/res/values/strings.xml => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values/values.xml
+[INFO]  Extracting module resources: /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-accelerometer.res.zip
+[DEBUG] Merging /var/folders/7q/5zcnwj3j2g758v9g8nvsrq7m0000gn/T/118219-8597-14atpzg.r7zh9tfbt9/res/values/strings.xml => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values/values.xml
+[INFO]  Extracting module resources: /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-platform.res.zip
+[DEBUG] Merging /var/folders/7q/5zcnwj3j2g758v9g8nvsrq7m0000gn/T/118219-8597-19ltuxz.fk187u8fr/res/values/strings.xml => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values/values.xml
+[INFO]  Extracting module resources: /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-gesture.res.zip
+[DEBUG] Merging /var/folders/7q/5zcnwj3j2g758v9g8nvsrq7m0000gn/T/118219-8597-1hczzca.mfqj3ba9k9/res/values/strings.xml => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values/values.xml
+[INFO]  Extracting module resources: /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-contacts.res.zip
+[DEBUG] Merging /var/folders/7q/5zcnwj3j2g758v9g8nvsrq7m0000gn/T/118219-8597-vyvdcg.u3cccpiudi/res/values/strings.xml => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values/values.xml
+[INFO]  Extracting module resources: /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-utils.res.zip
+[DEBUG] Merging /var/folders/7q/5zcnwj3j2g758v9g8nvsrq7m0000gn/T/118219-8597-1iuf2dw.zowckmaemi/res/values/strings.xml => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values/values.xml
+[DEBUG] Removing old file: /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/.classpath
+[DEBUG] Removing old file: /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/.gitignore
+[DEBUG] Removing old file: /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/.project
+[DEBUG] Removing old file: /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/AndroidManifest.xml
+[DEBUG] Removing old file: /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/default.properties
+[DEBUG] Removing old file: /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/java-sources.txt
+[DEBUG] Copying template /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/templates/build/AppInfo.java => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/gen/cl/tinet/bicemovil/BancoBiceAppInfo.java
+[DEBUG] Copying template /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/templates/build/App.java => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/gen/cl/tinet/bicemovil/BancoBiceApplication.java
+[DEBUG] Copying template /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/templates/build/Activity.java => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/gen/cl/tinet/bicemovil/BancoBiceActivity.java
+[DEBUG] Copying template /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/templates/build/project => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/.project
+[DEBUG] Copying template /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/templates/build/default.properties => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/default.properties
+[DEBUG] Copying /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/templates/build/gitignore => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/.gitignore
+[DEBUG] Copying /Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/templates/build/classpath => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/.classpath
+[INFO]  No aidl files to compile, continuing
+[INFO]  Generating i18n files
+[DEBUG] Compiling localization files
+[DEBUG] Processing i18n file: en/strings.xml
+[DEBUG] Processing i18n file: es/strings.xml
+[DEBUG] Writing en strings => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values/strings.xml
+[DEBUG] Writing es strings => /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values-es/strings.xml
+[INFO]  Generating /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res/values/theme.xml
+[WARN]  android:launchMode should not be used. Ignoring definition from .BancoBiceActivity
+[INFO]  Running AAPT: /Users/tinet/Library/Android/sdk/build-tools/26.0.2/aapt "package" "-f" "-m" "-J" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/gen" "-M" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/AndroidManifest.xml" "-A" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/assets" "-S" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/res" "-I" "/Users/tinet/Library/Android/sdk/platforms/android-26/android.jar" "-F" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/app.ap_" "--output-text-symbols" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/intermediates/bundles""--no-version-vectors" "--auto-add-overlay" "--extra-packages" "ti.modules.titanium.ui:android.support.v7.appcompat:android.support.v7.cardview:android.support.design:android.support.compat:com.google.android.gms"
+[TRACE] Generating R.class for package: ti.map
+[TRACE] Generating R.class for package: ti.touchid
+[TRACE] Generating R.class for package: ti.cloudpush
+[DEBUG] Skipping duplicate jar file: /Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/google-play-services-base.jar
+[DEBUG] Skipping duplicate jar file: /Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/google-play-services-basement.jar
+[INFO]  Building Java source files: /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/bin/javac "-J-Xmx1024M" "-encoding" "utf8" "-bootclasspath" "/Users/tinet/Library/Android/sdk/platforms/android-26/android.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/kroll-v8.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-analytics.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/aps-analytics.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-android.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/jaxen-1.1.1.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/ti-commons-codec-1.3.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/kroll-common.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/titanium.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-multidex.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-filesystem.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-app.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-ui.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/nineoldandroids-appc-2.4.0.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-media.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-appcompat.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-v4.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-v7-appcompat.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-animated-vector-drawable.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-annotations.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-core-ui.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-core-utils.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-fragment.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-media-compat.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-vector-drawable.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-transition.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-v7-recyclerview.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-cardview.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-v7-cardview.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-design.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-design.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-compat.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-compat.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-locale.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-network.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-xml.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-map.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-calendar.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-geolocation.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-database.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-accelerometer.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-platform.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-gesture.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-contacts.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-utils.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.map/3.3.1/map.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.map/3.3.1/lib/google-play-services-base.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.map/3.3.1/lib/google-play-services-basement.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.map/3.3.1/lib/google-play-services-map.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.touchid/2.2.0/touchid.jar:/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/modules/android/bencoding.securely/3.0.9/securely.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/cloudpush.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/aps-cloudpush-1.1.4.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/google-play-services-gcm.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/google-play-services-identity.jar:/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/google-play-services-iid.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/kroll-apt.jar:/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/lib/titanium-verify.jar:Manifest.class:R.class:AssetCryptImpl.class:BancoBiceActivity.class:BancoBiceAppInfo.class:BancoBiceApplication.class" "-d" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/classes" "-proc:none" "-target" "1.6" "-source" "1.6" "@/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/java-sources.txt"
+[INFO]  Running dexer: /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/bin/java "-Xmx2048M" "-XX:-UseGCOverheadLimit" "-Djava.ext.dirs=/Users/tinet/Library/Android/sdk/platform-tools" "-jar" "/Users/tinet/Library/Android/sdk/build-tools/26.0.2/lib/dx.jar" "--dex" "--multi-dex" "--set-max-idx-number=65536" "--output=/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/dexfiles" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/classes" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/lib/titanium-verify.jar" "/Users/tinet/Library/Application Support/Titanium/modules/android/ti.map/3.3.1/map.jar" "/Users/tinet/Library/Application Support/Titanium/modules/android/ti.map/3.3.1/lib/google-play-services-base.jar" "/Users/tinet/Library/Application Support/Titanium/modules/android/ti.map/3.3.1/lib/google-play-services-basement.jar""/Users/tinet/Library/Application Support/Titanium/modules/android/ti.map/3.3.1/lib/google-play-services-map.jar" "/Users/tinet/Library/Application Support/Titanium/modules/android/ti.touchid/2.2.0/touchid.jar" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/modules/android/bencoding.securely/3.0.9/securely.jar" "/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/cloudpush.jar" "/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/aps-cloudpush-1.1.4.jar" "/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/google-play-services-gcm.jar" "/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/google-play-services-identity.jar" "/Users/tinet/Library/Application Support/Titanium/modules/android/ti.cloudpush/4.0.4/lib/google-play-services-iid.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/kroll-v8.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-analytics.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/aps-analytics.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-android.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/jaxen-1.1.1.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/ti-commons-codec-1.3.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/kroll-common.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/titanium.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-multidex.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-filesystem.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-app.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-ui.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/nineoldandroids-appc-2.4.0.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-media.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-appcompat.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-v4.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-v7-appcompat.jar" "/Users/tinet/Library/ApplicationSupport/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-animated-vector-drawable.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-annotations.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-core-ui.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-core-utils.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-fragment.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-media-compat.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-vector-drawable.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-transition.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-v7-recyclerview.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-cardview.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-v7-cardview.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-design.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-design.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-compat.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/android-support-compat.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-locale.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-network.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-xml.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-map.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-calendar.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-geolocation.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-database.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-accelerometer.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-platform.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-gesture.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-contacts.jar" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/modules/titanium-utils.jar"
+[INFO]  Creating unsigned apk
+[INFO]  Processing /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/dexfiles
+[INFO]  Processing /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/src
+[INFO]  Writing unsigned apk: /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/app-unsigned.apk
+[INFO]  Using MD5withRSA signature algorithm
+[INFO]  Signing apk: /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/bin/jarsigner "-sigalg" "MD5withRSA" "-digestalg" "SHA1" "-keystore" "/Users/tinet/Library/Application Support/Titanium/mobilesdk/osx/6.2.1.GA/android/dev_keystore" "-storepass" "*******" "-signedjar" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/Banco BICE.apk" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/app-unsigned.apk" "tidev"
+[INFO]  Aligning zip file: /Users/tinet/Library/Android/sdk/build-tools/26.0.2/zipalign "-v" "4" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/Banco BICE.apk" "/Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/Banco BICE.apkz"
+[INFO]  Writing build manifest: /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/build-manifest.json
+[INFO]  Making sure the adb server is running
+[INFO]  Installing apk: /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/Banco BICE.apk
+[TRACE] Checking if package manager service is started
+[TRACE] Package manager has started
+[TRACE] Executing: /Users/tinet/Library/Android/sdk/platform-tools/adb -s emulator-5556 install -r -d /Users/tinet/Documents/BICE_APP/SOPORTE/BICEMovil/build/android/bin/Banco BICE.apk
+[INFO]  App successfully installed
+[INFO]  Starting app: cl.tinet.bicemovil/.BancoBiceActivity
+[DEBUG] Trying to start the app...
+[INFO]  Application pid: 4358
+[INFO]  Project built successfully in 12m 18s 238ms
+
+-- Start application log -----------------------------------------------------
+[INFO]  TiApplication: (main) [0,0] checkpoint, app created.
+[INFO]  TiApplication: (main) [315,315] Titanium 6.2.1 (2017/09/19 17:44 undefined)
+[INFO]  MultiDex: VM with version 2.1.0 has multidex support
+[INFO]  MultiDex: install
+[INFO]  MultiDex: VM has multidex support, MultiDex support library is disabled.
+[INFO]  art: Background partial concurrent mark sweep GC freed 202(9KB) AllocSpace objects, 0(0B) LOS objects, 12% free, 28MB/32MB, paused 79.861ms total 128.132ms
+[INFO]  art: Background sticky concurrent mark sweep GC freed 0(0B) AllocSpace objects, 0(0B) LOS objects, 0% free, 42MB/42MB, paused 4.092ms total 149.947ms
+[INFO]  TiApplication: (main) [1653,1968] Titanium Javascript runtime: v8
+[INFO]  art: Background partial concurrent mark sweep GC freed 177(30KB) AllocSpace objects, 0(0B) LOS objects, 6% free, 54MB/58MB, paused 636us total 229.626ms
+[WARN]  TiAndroid: (KrollRuntimeThread) [653,2621] Application instance no longer available. Unable to get current activity.
+[WARN]  TiAndroid: (KrollRuntimeThread) [1,2622] Application instance no longer available. Unable to get current activity.
+[WARN]  TiAndroid: (KrollRuntimeThread) [0,2622] Application instance no longer available. Unable to get current activity.
+[WARN]  art: Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+[TRACE] updating tiapp metadata with Appcelerator Platform...
+[INFO]  TiRootActivity: (main) [0,0] checkpoint, on root activity create, savedInstanceState: null
+[INFO]  com.appcelerator.apm module is not available
+[INFO]  --------Densidad Dispositivo-------
+[INFO]  xhigh
+[DEBUG] index.js: *** Info. Dispositivo ***
+[DEBUG] index.js: model: Android SDK built for x86
+[DEBUG] index.js: name: android
+[DEBUG] index.js: os name: android
+[DEBUG] index.js: os type: 32bit
+[DEBUG] index.js: runtime: v8
+[DEBUG] index.js: api name: Ti.Platform
+[DEBUG] index.js: os version: 6.0
+[DEBUG] index.js: id: 491a6b6e526e963a
+[DEBUG] index.js: app version: 3.2.0.0
+[DEBUG] index.js: device Token: APA91bHlDGky810c_dhggdgQHWmBD9VMmNoOajgKQ6fBsGmOZDPorPRzNsT-oloc1kfIClyHN8zPfA8aaoNs3NTeOZHmfkzv9u3TlCy-Z5hZE-3f_AVbFiTs0B2v-5ojO18WEUuqSaCU
+[INFO]  antes de iraservicio registro :{"dispositivo":"491a6b6e526e963a","idAplicacion":"cl.tinet.bicemovil","nomModelo":"Android SDK built for x86","nomSistemaOperativo":"android6.0","plataforma":"android","firma":"","version":"3.2.0.0","codIdPush":"APA91bHlDGky810c_dhggdgQHWmBD9VMmNoOajgKQ6fBsGmOZDPorPRzNsT-oloc1kfIClyHN8zPfA8aaoNs3NTeOZHmfkzv9u3TlCy-Z5hZE-3f_AVbFiTs0B2v-5ojO18WEUuqSaCU"}
+[INFO]  [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/101
+[INFO]  [BICE SERV] JSON REQUEST: {"dispositivo":"491a6b6e526e963a","idAplicacion":"cl.tinet.bicemovil","nomModelo":"Android SDK built for x86","nomSistemaOperativo":"android6.0","plataforma":"android","firma":"","version":"3.2.0.0","codIdPush":"APA91bHlDGky810c_dhggdgQHWmBD9VMmNoOajgKQ6fBsGmOZDPorPRzNsT-oloc1kfIClyHN8zPfA8aaoNs3NTeOZHmfkzv9u3TlCy-Z5hZE-3f_AVbFiTs0B2v-5ojO18WEUuqSaCU"}
+[WARN]  art: No such thread id for suspend: 13
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":"1","glosaEstado":"Actualizado|39853DAC9DFBE71692B16CD7D5DA06E1"},"serviciosGenerales":["GE1100","GE0107","GE0907","GE0108","GE0901","GE0902","GE0910","GE0906","GE0103","GE2000","GE2008","GE4000","GE5002","GE5004","GE5005","GE5015"]}}
+[DEBUG] [BICE SERV][OK] Codigo: 1
+[DEBUG] [BICE SERV][OK] Glosa: Actualizado|39853DAC9DFBE71692B16CD7D5DA06E1
+[INFO]  responseRegistro servicios:  ["GE1100","GE0107","GE0907","GE0108","GE0901","GE0902","GE0910","GE0906","GE0103","GE2000","GE2008","GE4000","GE5002","GE5004","GE5005","GE5015"]
+[INFO]  INDEX ANDROID EnabletouchIDFromService:  false
+[INFO]  ENTRE ELSE flagCheckBoxTouchID:  false
+[INFO]  touchIDHabilitado false 3
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[INFO]  TiRootActivity: (main) [0,0] checkpoint, on root activity resume. activity = cl.tinet.bicemovil.BancoBiceActivity@4879cd9
+[DEBUG] OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+[DEBUG] D/        : HostConnection::get() New Host Connection established 0x9c2bf780, tid 4358
+[WARN]  W/        : Unrecognized GLES max version string in extensions: ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1
+[DEBUG] Window: Checkpoint: postWindowCreated()
+[DEBUG] D/        : HostConnection::get() New Host Connection established 0x9c14ccc0, tid 4392
+[TRACE] Uploaded tiapp metadata with Appcelerator Platform!
+[WARN]  W/        : Unrecognized GLES max version string in extensions: ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_dma_v1
+[INFO]  OpenGLRenderer: Initialized EGL, version 1.4
+[DEBUG] EGL_emulation: eglCreateContext: 0xa9b87da0: maj 2 min 0 rcv 2
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[INFO]  Choreographer: Skipped 51 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 35 frames!  The application may be doing too much work on its main thread.
+[INFO]  return
+[INFO]  touchIDHabilitado false 1
+[INFO]  <<<<< conectarServicioLogin >>>>>> true
+[INFO]  undefined
+[INFO]  4b1214d30b1ba17a05d203a9d76d9d24
+[INFO]  ****CONTRASEÑA*****
+[INFO]  5678
+[INFO]  4b1214d30b1ba17a05d203a9d76d9d24
+[INFO]  login.js:limpiarRUT Salida: 136886975
+[INFO]  [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/102
+[INFO]  [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","rut":"136886975","clave":"utI9CIASvfFha+3mwKCe5g==","version":"3.2.0.0","flagOT":"1"}
+[INFO]  >>> else conectarServicioLogin
+[DEBUG] Window: Checkpoint: postWindowCreated()
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[INFO]  Choreographer: Skipped 31 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":"1","glosaEstado":"Operacion Exitosa"},"sesion":{"token":"1EF4B37B067C0028EE8"},"usuario":{"nombre":"Cortez Cargill Fernando Antonio","fax":"","tipo":"05","email":"FCORTEZ123@GMAIL.COM"},"clientes":[],"productos":[{"codigoProducto":"00100","numeroProducto":"20001000056","numeroProductoEnmascarado":"200-01-00005-6","tipoProducto":"Cuenta Corriente","aliasProducto":"Cuenta BIA CLP","fecha":null,"servicioPrincipal":"MN0707","serviciosActivos":["MN0501","MN0707","MN0713","MN0809"],"moneda":"000"},{"codigoProducto":"00100","numeroProducto":"20001000730","numeroProductoEnmascarado":"200-01-00073-0","tipoProducto":"Cuenta Corriente","aliasProducto":"Cuenta Corriente","fecha":null,"servicioPrincipal":"MN0707","serviciosActivos":["MN0501","MN0707","MN0713","MN0809"],"moneda":"000"},{"codigoProducto":"00101","numeroProducto":"21301000011","numeroProductoEnmascarado":"213-01-00001-1","tipoProducto":"Cta Cte Moneda Extranjera","aliasProducto":"Cuenta BIA USD","fecha":null,"servicioPrincipal":null,"serviciosActivos":["MX0501"],"moneda":"013"},{"codigoProducto":"00210","numeroProducto":"4633070405000035","numeroProductoEnmascarado":"4633 07XX XXXX 0035","tipoProducto":"Tarjeta de Crédito","aliasProducto":"Tarjeta BIA","fecha":null,"servicioPrincipal":"TC0709","serviciosActivos":["TC0601","TC0605","TC0709","TN0710","TX0710","TC0604"],"moneda":"000"},{"codigoProducto":"00140","numeroProducto":"0136886975","numeroProductoEnmascarado":"0136886975","tipoProducto":"Inversiones","aliasProducto":"Inversiones","fecha":"20180319","servicioPrincipal":null,"serviciosActivos":[],"moneda":"000"}],"serviciosGenerales":["GE1100","GE0107","GE0907","GE0108","GE0901","GE0902","GE0910","GE0906","GE0103","GE2000","GE2008","GE4000","GE5002","GE5004","GE5005","GE5015"]}}
+[DEBUG] [BICE SERV][OK] Codigo: 1
+[DEBUG] [BICE SERV][OK] Glosa: Operacion Exitosa
+[INFO]  codigoCambioClave1: 1
+[INFO]  isCambioClave2: false
+[INFO]  else3: false
+[DEBUG] [obtenerNotificaciones] ambitos:
+[DEBUG] [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/2010
+[DEBUG] [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoCanal":"","codigoCategoria":"","ambitos":"","fechaDesde":"","fechaHasta":"","leido":"","noLeido":"","eliminado":"","pagina":"1","origen":"APP","incluyeObjetos":"0","ambito":[],"filtro":"1"}
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] [BICE SERV] HTTP STATUS: 200
+[DEBUG] [BICE SERV] JSON RESPONSE: {"pagina":"1","textoInfo":"10","totalPaginas":"0","totalRegistros":"0"}
+[DEBUG] [obtenerNotificaciones] cantidad de notificaciones: 0
+[DEBUG] [obtenerNotificaciones] Notificaciones obtenidas correctamente
+[INFO]  NB Productos: [{"codigoProducto":"00100","numeroProducto":"20001000056","numeroProductoEnmascarado":"200-01-00005-6","tipoProducto":"Cuenta Corriente","aliasProducto":"Cuenta BIA CLP","fecha":null,"servicioPrincipal":"MN0707","serviciosActivos":["MN0501","MN0707","MN0713","MN0809"],"moneda":"000"},{"codigoProducto":"00100","numeroProducto":"20001000730","numeroProductoEnmascarado":"200-01-00073-0","tipoProducto":"Cuenta Corriente","aliasProducto":"Cuenta Corriente","fecha":null,"servicioPrincipal":"MN0707","serviciosActivos":["MN0501","MN0707","MN0713","MN0809"],"moneda":"000"},{"codigoProducto":"00101","numeroProducto":"21301000011","numeroProductoEnmascarado":"213-01-00001-1","tipoProducto":"Cta Cte Moneda Extranjera","aliasProducto":"Cuenta BIA USD","fecha":null,"servicioPrincipal":null,"serviciosActivos":["MX0501"],"moneda":"013"},{"codigoProducto":"00210","numeroProducto":"4633070405000035","numeroProductoEnmascarado":"4633 07XX XXXX 0035","tipoProducto":"Tarjeta de Crédito","aliasProducto":"Tarjeta BIA","fecha":null,"servicioPrincipal":"TC0709","serviciosActivos":["TC0601","TC0605","TC0709","TN0710","TX0710","TC0604"],"moneda":"000"},{"codigoProducto":"00140","numeroProducto":"0136886975","numeroProductoEnmascarado":"0136886975","tipoProducto":"Inversiones","aliasProducto":"Inversiones","fecha":"20180319","servicioPrincipal":null,"serviciosActivos":[],"moneda":"000"}]
+[INFO]  productoDashboard.js: Obteniendo Producto: {"codigoProducto":"00100","numeroProducto":"20001000056","numeroProductoEnmascarado":"200-01-00005-6","tipoProducto":"Cuenta Corriente","aliasProducto":"Cuenta BIA CLP","fecha":null,"servicioPrincipal":"MN0707","serviciosActivos":["MN0501","MN0707","MN0713","MN0809"],"moneda":"000"}
+[DEBUG] elementos: {"codigoProducto":"00100","numeroProducto":"20001000056","numeroProductoEnmascarado":"200-01-00005-6","tipoProducto":"Cuenta Corriente","aliasProducto":"Cuenta BIA CLP","fecha":null,"servicioPrincipal":"MN0707","serviciosActivos":["MN0501","MN0707","MN0713","MN0809"],"moneda":"000"}
+[DEBUG] attrsProducto: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00100","cuenta":"20001000056","moneda":"000"}
+[INFO]  [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/201
+[INFO]  [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00100","cuenta":"20001000056","moneda":"000"}
+[INFO]  productoDashboard.js: Obteniendo Producto: {"codigoProducto":"00100","numeroProducto":"20001000730","numeroProductoEnmascarado":"200-01-00073-0","tipoProducto":"Cuenta Corriente","aliasProducto":"Cuenta Corriente","fecha":null,"servicioPrincipal":"MN0707","serviciosActivos":["MN0501","MN0707","MN0713","MN0809"],"moneda":"000"}
+[DEBUG] elementos: {"codigoProducto":"00100","numeroProducto":"20001000730","numeroProductoEnmascarado":"200-01-00073-0","tipoProducto":"Cuenta Corriente","aliasProducto":"Cuenta Corriente","fecha":null,"servicioPrincipal":"MN0707","serviciosActivos":["MN0501","MN0707","MN0713","MN0809"],"moneda":"000"}
+[DEBUG] attrsProducto: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00100","cuenta":"20001000730","moneda":"000"}
+[INFO]  [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/201
+[INFO]  [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00100","cuenta":"20001000730","moneda":"000"}
+[INFO]  productoDashboard.js: Obteniendo Producto: {"codigoProducto":"00101","numeroProducto":"21301000011","numeroProductoEnmascarado":"213-01-00001-1","tipoProducto":"Cta Cte Moneda Extranjera","aliasProducto":"Cuenta BIA USD","fecha":null,"servicioPrincipal":null,"serviciosActivos":["MX0501"],"moneda":"013"}
+[DEBUG] elementos: {"codigoProducto":"00101","numeroProducto":"21301000011","numeroProductoEnmascarado":"213-01-00001-1","tipoProducto":"Cta Cte Moneda Extranjera","aliasProducto":"Cuenta BIA USD","fecha":null,"servicioPrincipal":null,"serviciosActivos":["MX0501"],"moneda":"013"}
+[DEBUG] attrsProducto: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00101","cuenta":"21301000011","moneda":"013"}
+[INFO]  [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/201
+[INFO]  [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00101","cuenta":"21301000011","moneda":"013"}
+[INFO]  productoDashboard.js: Obteniendo Producto: {"codigoProducto":"00210","numeroProducto":"4633070405000035","numeroProductoEnmascarado":"4633 07XX XXXX 0035","tipoProducto":"Tarjeta de Crédito","aliasProducto":"Tarjeta BIA","fecha":null,"servicioPrincipal":"TC0709","serviciosActivos":["TC0601","TC0605","TC0709","TN0710","TX0710","TC0604"],"moneda":"000"}
+[DEBUG] elementos: {"codigoProducto":"00210","numeroProducto":"4633070405000035","numeroProductoEnmascarado":"4633 07XX XXXX 0035","tipoProducto":"Tarjeta de Crédito","aliasProducto":"Tarjeta BIA","fecha":null,"servicioPrincipal":"TC0709","serviciosActivos":["TC0601","TC0605","TC0709","TN0710","TX0710","TC0604"],"moneda":"000"}
+[DEBUG] attrsProducto: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00210","cuenta":"4633070405000035","moneda":"000"}
+[INFO]  [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/201
+[INFO]  [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00210","cuenta":"4633070405000035","moneda":"000"}
+[INFO]  productoDashboard.js: Obteniendo Producto: {"codigoProducto":"00140","numeroProducto":"0136886975","numeroProductoEnmascarado":"0136886975","tipoProducto":"Inversiones","aliasProducto":"Inversiones","fecha":"20180319","servicioPrincipal":null,"serviciosActivos":[],"moneda":"000"}
+[DEBUG] elementos: {"codigoProducto":"00140","numeroProducto":"0136886975","numeroProductoEnmascarado":"0136886975","tipoProducto":"Inversiones","aliasProducto":"Inversiones","fecha":"20180319","servicioPrincipal":null,"serviciosActivos":[],"moneda":"000"}
+[DEBUG] attrsProducto: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00140","cuenta":"0136886975","moneda":"000"}
+[INFO]  [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/201
+[INFO]  [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00140","cuenta":"0136886975","moneda":"000"}
+[ERROR] !!!
+[ERROR] !!! WARNING : Use of unsupported constant Ti.UI.iPhone.TableViewSeparatorStyle.NONE !!!
+[ERROR] !!!
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [12057,12057] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[INFO]  Choreographer: Skipped 101 frames!  The application may be doing too much work on its main thread.
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [1524,13581] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[INFO]  Choreographer: Skipped 38 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [91,13672] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [1044,14716] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[INFO]  Choreographer: Skipped 31 frames!  The application may be doing too much work on its main thread.
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [212,14928] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[INFO]  initialized
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":"1","glosaEstado":"Operacion Exitosa"},"saldo":{"titulo":"Detalle de Consolidados","monto":"1425598.0","montoFormateado":"$ 1.425.598","detalleAvanceNacional":null,"detalleFacturacion":null,"detalle":[{"nombre":"Consolidado","saldos":[{"descripcion":"En Pesos","monto":"$ 1.425.598","codigoMoneda":"000"},{"descripcion":"En Dólares","monto":"US$ 2,15","codigoMoneda":"013"},{"descripcion":"En Euro","monto":"€ 0,00","codigoMoneda":"142"},{"descripcion":"En APV","monto":"$ 5.260.236","codigoMoneda":"000"}]}],"textoInfo":null}}}
+[DEBUG] [BICE SERV][OK] Codigo: 1
+[DEBUG] [BICE SERV][OK] Glosa: Operacion Exitosa
+[WARN]  Deprecation warning: moment().lang() is deprecated. Use moment().localeData() instead.
+[INFO]  SALDOS
+[INFO]  ########################################
+[INFO]  [object Object],[object Object],[object Object],[object Object]
+[DEBUG] formatValue.js:formatMonto: formatea monto.
+[DEBUG] formatValue.js:formatMonto: formatea monto.
+[INFO]  view a remover children
+[INFO]  [object View]
+[DEBUG] Removiendo Children de view: [object View] total: 1
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":"88","glosaEstado":"Error al invocar el WS"},"saldo":null}}
+[WARN]  [BICE SERV][WARN] Codigo BICE: 88
+[WARN]  [BICE SERV][WARN] Desc BICE: Error al invocar el WS
+[INFO]  view a remover children
+[INFO]  [object View]
+[DEBUG] Removiendo Children de view: [object View] total: 1
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":"1","glosaEstado":"Operacion Exitosa"},"saldo":{"titulo":"Disponible para girar","monto":"3502","montoFormateado":"$ 3.502","detalleAvanceNacional":null,"detalleFacturacion":null,"detalle":[{"nombre":"Cuenta Corriente","saldos":[{"descripcion":"Saldo disponible","monto":"$ -1.996.498","codigoMoneda":"000"},{"descripcion":"Saldo contable","monto":"$ -1.996.498","codigoMoneda":"000"}]},{"nombre":"Línea de sobregiro","saldos":[{"descripcion":"Monto disponible","monto":"$ 3.502","codigoMoneda":"000"},{"descripcion":"Monto aprobado","monto":"$ 2.000.000","codigoMoneda":"000"}]}],"textoInfo":null}}}
+[DEBUG] [BICE SERV][OK] Codigo: 1
+[DEBUG] [BICE SERV][OK] Glosa: Operacion Exitosa
+[INFO]  SALDOS
+[INFO]  ########################################
+[INFO]  [object Object],[object Object]
+[INFO]  SALDOS
+[INFO]  ########################################
+[INFO]  [object Object],[object Object]
+[INFO]  NB EVENTO ESPECIAL
+[INFO]  view a remover children
+[INFO]  [object View]
+[DEBUG] Removiendo Children de view: [object View] total: 1
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":"1","glosaEstado":"Operacion Exitosa"},"saldo":{"titulo":"Disponible para girar","monto":"10464","montoFormateado":"$ 10.464","detalleAvanceNacional":null,"detalleFacturacion":null,"detalle":[{"nombre":"Cuenta Corriente","saldos":[{"descripcion":"Saldo disponible","monto":"$ 955","codigoMoneda":"000"},{"descripcion":"Saldo contable","monto":"$ 955","codigoMoneda":"000"}]},{"nombre":"Línea de sobregiro","saldos":[{"descripcion":"Monto disponible","monto":"$ 9.509","codigoMoneda":"000"},{"descripcion":"Monto aprobado","monto":"$ 9.509","codigoMoneda":"000"}]}],"textoInfo":null}}}
+[DEBUG] [BICE SERV][OK] Codigo: 1
+[DEBUG] [BICE SERV][OK] Glosa: Operacion Exitosa
+[INFO]  SALDOS
+[INFO]  ########################################
+[INFO]  [object Object],[object Object]
+[INFO]  SALDOS
+[INFO]  ########################################
+[INFO]  [object Object],[object Object]
+[INFO]  NB EVENTO ESPECIAL
+[INFO]  view a remover children
+[INFO]  [object View]
+[DEBUG] Removiendo Children de view: [object View] total: 1
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":"1","glosaEstado":"Operacion Exitosa"},"saldo":{"titulo":"Disponible para girar","monto":"5205.239999999999781721271574497222900390625","montoFormateado":"US$ 5.205,24","detalleAvanceNacional":null,"detalleFacturacion":null,"detalle":[{"nombre":"Cuenta Corriente Moneda Extranjera","saldos":[{"descripcion":"Saldo disponible","monto":"US$ -14.711,76","codigoMoneda":"013"},{"descripcion":"Saldo contable","monto":"US$ -14.711,76","codigoMoneda":"013"}]},{"nombre":"Línea de sobregiro","saldos":[{"descripcion":"Monto disponible","monto":"US$ 5.205,24","codigoMoneda":"013"},{"descripcion":"Monto aprobado","monto":"US$ 19.917,00","codigoMoneda":"013"}]}],"textoInfo":null}}}
+[DEBUG] [BICE SERV][OK] Codigo: 1
+[DEBUG] [BICE SERV][OK] Glosa: Operacion Exitosa
+[DEBUG] formatValue.js:formatMonto: formatea monto.
+[INFO]  SALDOS
+[INFO]  ########################################
+[INFO]  [object Object],[object Object]
+[DEBUG] formatValue.js:formatMonto: formatea monto.
+[DEBUG] formatValue.js:formatMonto: formatea monto.
+[INFO]  SALDOS
+[INFO]  ########################################
+[INFO]  [object Object],[object Object]
+[DEBUG] formatValue.js:formatMonto: formatea monto.
+[DEBUG] formatValue.js:formatMonto: formatea monto.
+[INFO]  view a remover children
+[INFO]  [object View]
+[DEBUG] Removiendo Children de view: [object View] total: 1
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[WARN]  TiUIScrollView: (main) [7395,22323] Scroll direction could not be determined based on the provided view properties. Default VERTICAL scroll direction being used. Use the 'scrollType' property to explicitly set the scrolling direction.
+[ERROR] TiDrawableReference: (pool-3-thread-2) [12,22335] Problem opening stream with url /images/user.png: Resources/images/user.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/user.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:319)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [8,22343] Problem opening stream with url /images/menuCuentasTarjetas.png: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:319)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-2) [122,22465] Problem opening stream with url /images/user.png: Resources/images/user.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/user.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [0,22465] Problem opening stream with url /images/menuCuentasTarjetas.png: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[WARN]  TiUIScrollView: (main) [1,22466] Scroll direction could not be determined based on the provided view properties. Default VERTICAL scroll direction being used. Use the 'scrollType' property to explicitly set the scrolling direction.
+[WARN]  TiColorHelper: (main) [14,22480] Unknown color: translucent
+[WARN]  TiColorHelper: (main) [47,22527] Unknown color: translucent
+[ERROR] TiDrawableReference: (pool-3-thread-2) [41,22568] Problem opening stream with url /images/user.png: Resources/images/user.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/user.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [1,22569] Problem opening stream with url /images/menuCuentasTarjetas.png: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[WARN]  TiColorHelper: (main) [7,22576] Unknown color: translucent
+[WARN]  TiColorHelper: (main) [37,22613] Unknown color: translucent
+[WARN]  TiColorHelper: (main) [2,22615] Unknown color: translucent
+[WARN]  TiColorHelper: (main) [36,22651] Unknown color: translucent
+[DEBUG] Window: Checkpoint: postWindowCreated()
+[ERROR] TiDrawableReference: (pool-3-thread-2) [20,22671] Problem opening stream with url /images/user.png: Resources/images/user.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/user.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [2,22673] Problem opening stream with url /images/menuCuentasTarjetas.png: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[DEBUG] Context.js: activeActivity: undefined
+[DEBUG] Context.js: invokedActivity: home
+[INFO]  Choreographer: Skipped 93 frames!  The application may be doing too much work on its main thread.
+[ERROR] TiDrawableReference: (pool-3-thread-1) [105,22778] Problem opening stream with url /images/menuCuentasTarjetas.png: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-2) [8,22786] Problem opening stream with url /images/user.png: Resources/images/user.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/user.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] Surface: getSlotFromBufferLocked: unknown buffer: 0xb40bcd00
+[ERROR] TiDrawableReference: (pool-3-thread-1) [103,22889] Problem opening stream with url /images/menuCuentasTarjetas.png: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/menuCuentasTarjetas.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[WARN]  TiDrawableReference: (pool-3-thread-1) [0,22889] Could not open stream to get bitmap
+[ERROR] TiDrawableReference: (pool-3-thread-1) [0,22889] Problem opening stream with url /images/ordenDownSelec.png: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:319)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-2) [1,22890] Problem opening stream with url /images/user.png: Resources/images/user.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/user.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[WARN]  TiDrawableReference: (pool-3-thread-2) [0,22890] Could not open stream to get bitmap
+[ERROR] TiDrawableReference: (pool-3-thread-1) [100,22990] Problem opening stream with url /images/ordenDownSelec.png: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [102,23092] Problem opening stream with url /images/ordenDownSelec.png: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [103,23195] Problem opening stream with url /images/ordenDownSelec.png: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [104,23299] Problem opening stream with url /images/ordenDownSelec.png: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-2) [78,23377] Problem opening stream with url /images/notification_gray.png: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:319)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [23,23400] Problem opening stream with url /images/ordenDownSelec.png: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDownSelec.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[WARN]  TiDrawableReference: (pool-3-thread-1) [1,23401] Could not open stream to get bitmap
+[ERROR] TiDrawableReference: (pool-3-thread-1) [6,23407] Problem opening stream with url /images/settings_gray.png: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:319)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[DEBUG] Window: Window is closed normally.
+[ERROR] Surface: getSlotFromBufferLocked: unknown buffer: 0xb40be1a0
+[ERROR] TiDrawableReference: (pool-3-thread-2) [76,23483] Problem opening stream with url /images/notification_gray.png: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [27,23510] Problem opening stream with url /images/settings_gray.png: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-2) [75,23585] Problem opening stream with url /images/notification_gray.png: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [27,23612] Problem opening stream with url /images/settings_gray.png: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-2) [76,23688] Problem opening stream with url /images/notification_gray.png: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [26,23714] Problem opening stream with url /images/settings_gray.png: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-2) [76,23790] Problem opening stream with url /images/notification_gray.png: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [31,23821] Problem opening stream with url /images/settings_gray.png: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[INFO]  mostrarNotificaciones android inicio false
+[INFO]  Choreographer: Skipped 68 frames!  The application may be doing too much work on its main thread.
+[ERROR] TiDrawableReference: (pool-3-thread-2) [72,23893] Problem opening stream with url /images/notification_gray.png: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/notification_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[WARN]  TiDrawableReference: (pool-3-thread-2) [0,23893] Could not open stream to get bitmap
+[ERROR] TiDrawableReference: (pool-3-thread-1) [31,23924] Problem opening stream with url /images/settings_gray.png: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/settings_gray.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[WARN]  TiDrawableReference: (pool-3-thread-1) [1,23925] Could not open stream to get bitmap
+[TRACE] RenderScript: 0x9c1dd000 Launching thread(s), CPUs 2
+[INFO]  Choreographer: Skipped 93 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 36 frames!  The application may be doing too much work on its main thread.
+[INFO]  switchBtnTablet botonDAPTablet
+[INFO]  DAP TAB1
+[INFO]  verVistaDetalle
+[INFO]  [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/5008
+[INFO]  [BICE SERV] JSON REQUEST: {"token":"1EF4B37B067C0028EE8","rut":"0136886975","dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24"}
+[INFO]  [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/908
+[INFO]  [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","idInformacion":"GLSINV"}
+[DEBUG] [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/3022
+[DEBUG] [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975"}
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [8909,32834] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [238,33072] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [476,33548] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [521,34069] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[WARN]  TableViewRowProxy: (KrollRuntimeThread) [448,34517] selectedBackgroundColor is deprecated, use backgroundSelectedColor instead
+[INFO]  initialized
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":"99","glosaEstado":"Error en conexion con la BD"},"glosa":{"detalle":null}}}
+[WARN]  [BICE SERV][WARN] Codigo BICE: 99
+[WARN]  [BICE SERV][WARN] Desc BICE: Error en conexion con la BD
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":1,"glosaEstado":"Operacion Exitosa"},"contratoFondosMutuos":{"tieneContrato":true}}}
+[DEBUG] [BICE SERV][OK] Codigo: 1
+[DEBUG] [BICE SERV][OK] Glosa: Operacion Exitosa
+[INFO]  Tiene contratosFFMM: true
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[DEBUG] [BICE SERV] HTTP STATUS: 200
+[DEBUG] [BICE SERV] JSON RESPONSE: [{"tituloProducto":"Acciones - ETF - CFI","codigoProducto":"350","esBIA":false,"saldo":{"detalle":[{"nombre":null,"saldos":[{"descripcion":"En Pesos","monto":"$ 1.420.398","montoNumerico":1420398.0,"codigoMoneda":"000"},{"descripcion":"En Dólares","monto":"US$ 0","montoNumerico":0.0,"codigoMoneda":"013"},{"descripcion":"En Euros","monto":"€ 0","montoNumerico":0.0,"codigoMoneda":"142"}]}]},"fecha":"19/03/2018","restringeMonto":false},{"tituloProducto":"Renta Fija","codigoProducto":"371","esBIA":false,"saldo":{"detalle":[{"nombre":null,"saldos":[{"descripcion":"En Pesos","monto":"$ 200","montoNumerico":200.0,"codigoMoneda":"000"},{"descripcion":"EnDólares","monto":"US$ 0","montoNumerico":0.0,"codigoMoneda":"013"},{"descripcion":"En Euros","monto":"€ 0","montoNumerico":0.0,"codigoMoneda":"142"}]}]},"fecha":"19/03/2018","restringeMonto":false},{"tituloProducto":"Ahorro Previsional Voluntario","codigoProducto":"APV","esBIA":false,"saldo":{"titulo":"Ahorro Previsional Voluntario","monto":"5260236.0","montoFormateado":"$ 5.260.236","detalle":[{"nombre":null,"saldos":[{"descripcion":"Cuenta Caja","monto":"$ 451.493","montoNumerico":0.0,"codigoMoneda":"000"}]},{"nombre":null,"saldos":[{"descripcion":"Acciones","monto":"$ 755.945","montoNumerico":0.0,"codigoMoneda":"000"}]},{"nombre":null,"saldos":[{"descripcion":"Fondos BICE","monto":"$ 4.052.798","montoNumerico":0.0,"codigoMoneda":"000"}]}]},"fecha":"19/03/2018","restringeMonto":false},{"tituloProducto":"Resumen de Inversiones","codigoProducto":"INV","esBIA":false,"saldo":{"titulo":"Mi Perfil de Inversionista es:","detalle":[{"nombre":"inversion","saldos":[{"descripcion":"En Pesos","monto":"$ 1.420.598","montoNumerico":1420598.0,"codigoMoneda":"000"},{"descripcion":"En Dólares","monto":"US$ 0","montoNumerico":0.0,"codigoMoneda":"013"},{"descripcion":"En Euros","monto":"€ 0","montoNumerico":0.0,"codigoMoneda":"142"},{"descripcion":"En APV","monto":"$ 5.260.236","montoNumerico":0.0,"codigoMoneda":"000"}]},{"nombre":"Caja","saldos":[{"descripcion":"Caja en Pesos","monto":"$ 5.000","montoNumerico":0.0,"codigoMoneda":"000"},{"descripcion":"Caja en Dólares","monto":"US$ 2,15","montoNumerico":0.0,"codigoMoneda":"013"},{"descripcion":"Caja en Euros","monto":"€ 0","montoNumerico":0.0,"codigoMoneda":"142"}]}],"textoInfo":"Muy Conservador"},"fecha":"19/03/2018","restringeMonto":false}]
+[INFO]  response: [{"tituloProducto":"Acciones - ETF - CFI","codigoProducto":"350","esBIA":false,"saldo":{"detalle":[{"nombre":null,"saldos":[{"descripcion":"En Pesos","monto":"$ 1.420.398","montoNumerico":1420398,"codigoMoneda":"000"},{"descripcion":"En Dólares","monto":"US$ 0","montoNumerico":0,"codigoMoneda":"013"},{"descripcion":"En Euros","monto":"€ 0","montoNumerico":0,"codigoMoneda":"142"}]}]},"fecha":"19/03/2018","restringeMonto":false},{"tituloProducto":"Renta Fija","codigoProducto":"371","esBIA":false,"saldo":{"detalle":[{"nombre":null,"saldos":[{"descripcion":"En Pesos","monto":"$ 200","montoNumerico":200,"codigoMoneda":"000"},{"descripcion":"En Dólares","monto":"US$ 0","montoNumerico":0,"codigoMoneda":"013"},{"descripcion":"En Euros","monto":"€ 0","montoNumerico":0,"codigoMoneda":"142"}]}]},"fecha":"19/03/2018","restringeMonto":false},{"tituloProducto":"Ahorro Previsional Voluntario","codigoProducto":"APV","esBIA":false,"saldo":{"titulo":"Ahorro Previsional Voluntario","monto":"5260236.0","montoFormateado":"$ 5.260.236","detalle":[{"nombre":null,"saldos":[{"descripcion":"Cuenta Caja","monto":"$ 451.493","montoNumerico":0,"codigoMoneda":"000"}]},{"nombre":null,"saldos":[{"descripcion":"Acciones","monto":"$ 755.945","montoNumerico":0,"codigoMoneda":"000"}]},{"nombre":null,"saldos":[{"descripcion":"Fondos BICE","monto":"$ 4.052.798","montoNumerico":0,"codigoMoneda":"000"}]}]},"fecha":"19/03/2018","restringeMonto":false},{"tituloProducto":"Resumen de Inversiones","codigoProducto":"INV","esBIA":false,"saldo":{"titulo":"Mi Perfil de Inversionista es:","detalle":[{"nombre":"inversion","saldos":[{"descripcion":"En Pesos","monto":"$ 1.420.598","montoNumerico":1420598,"codigoMoneda":"000"},{"descripcion":"En Dólares","monto":"US$ 0","montoNumerico":0,"codigoMoneda":"013"},{"descripcion":"En Euros","monto":"€ 0","montoNumerico":0,"codigoMoneda":"142"},{"descripcion":"En APV","monto":"$ 5.260.236","montoNumerico":0,"codigoMoneda":"000"}]},{"nombre":"Caja","saldos":[{"descripcion":"Caja en Pesos","monto":"$ 5.000","montoNumerico":0,"codigoMoneda":"000"},{"descripcion":"Caja en Dólares","monto":"US$ 2,15","montoNumerico":0,"codigoMoneda":"013"},{"descripcion":"Caja en Euros","monto":"€ 0","montoNumerico":0,"codigoMoneda":"142"}]}],"textoInfo":"Muy Conservador"},"fecha":"19/03/2018","restringeMonto":false}]
+[INFO]  Resumen inv: {"tituloProducto":"Resumen de Inversiones","codigoProducto":"INV","esBIA":false,"saldo":{"titulo":"Mi Perfil de Inversionista es:","detalle":[{"nombre":"inversion","saldos":[{"descripcion":"En Pesos","monto":"$ 1.420.598","montoNumerico":1420598,"codigoMoneda":"000"},{"descripcion":"En Dólares","monto":"US$ 0","montoNumerico":0,"codigoMoneda":"013"},{"descripcion":"En Euros","monto":"€ 0","montoNumerico":0,"codigoMoneda":"142"},{"descripcion":"En APV","monto":"$ 5.260.236","montoNumerico":0,"codigoMoneda":"000"}]},{"nombre":"Caja","saldos":[{"descripcion":"Caja en Pesos","monto":"$ 5.000","montoNumerico":0,"codigoMoneda":"000"},{"descripcion":"Caja en Dólares","monto":"US$ 2,15","montoNumerico":0,"codigoMoneda":"013"},{"descripcion":"Caja en Euros","monto":"€ 0","montoNumerico":0,"codigoMoneda":"142"}]}],"textoInfo":"Muy Conservador"},"fecha":"19/03/2018","restringeMonto":false}
+[DEBUG] Window: Checkpoint: postWindowCreated()
+[INFO]  Choreographer: Skipped 44 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[INFO]  saldoCaja: {"descripcion":"Caja en Pesos","monto":"$ 5.000","montoNumerico":0,"codigoMoneda":"000"}
+[DEBUG] Window: Checkpoint: postWindowCreated()
+[INFO]  Choreographer: Skipped 65 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[INFO]  saldoCaja: {"descripcion":"Caja en Dólares","monto":"US$ 2,15","montoNumerico":0,"codigoMoneda":"013"}
+[INFO]  Choreographer: Skipped 93 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[INFO]  Choreographer: Skipped 84 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[INFO]  saldoCaja: {"descripcion":"Caja en Euros","monto":"€ 0","montoNumerico":0,"codigoMoneda":"142"}
+[INFO]  Choreographer: Skipped 54 frames!  The application may be doing too much work on its main thread.
+[ERROR] Surface: getSlotFromBufferLocked: unknown buffer: 0xb40be2e0
+[INFO]  inversion: {"descripcion":"En Pesos","monto":"$ 1.420.598","montoNumerico":1420598,"codigoMoneda":"000"}
+[INFO]  inversion: {"descripcion":"En Dólares","monto":"US$ 0","montoNumerico":0,"codigoMoneda":"013"}
+[INFO]  inversion: {"descripcion":"En Euros","monto":"€ 0","montoNumerico":0,"codigoMoneda":"142"}
+[INFO]  inversion: {"descripcion":"En APV","monto":"$ 5.260.236","montoNumerico":0,"codigoMoneda":"000"}
+[INFO]  DAP TAB1
+[INFO]  verVistaDetalle
+[INFO]  closeloading
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[WARN]  TiUIScrollView: (main) [11843,46360] Scroll direction could not be determined based on the provided view properties. Default VERTICAL scroll direction being used. Use the 'scrollType' property to explicitly set the scrolling direction.
+[INFO]  Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+[ERROR] Surface: getSlotFromBufferLocked: unknown buffer: 0x9a06f780
+[DEBUG] Window: Window is closed normally.
+[INFO]  switchBtnTablet botonFFMMTablet
+[INFO]  FFMM TAB1
+[INFO]  verVistaDetalle
+[INFO]  APSAnalyticsService: Analytics Service Started
+[INFO]  APSAnalyticsService: Stopping Analytics Service
+[INFO]  switchTabDetalleTablet resumenInversionesTabletTab2
+[INFO]  FFMM TAB2
+[INFO]  entra aportar_win_1
+[DEBUG] [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/5011
+[DEBUG] [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","rut":"0136886975","token":"1EF4B37B067C0028EE8"}
+[DEBUG] [BICE SERV] ENDPOINT: http://desmova.bice.cl/mobileServices/201
+[DEBUG] [BICE SERV] JSON REQUEST: {"dispositivo":"4b1214d30b1ba17a05d203a9d76d9d24","token":"1EF4B37B067C0028EE8","rut":"0136886975","codigoProducto":"00100","cuenta":"20001000056","moneda":"000"}
+[INFO]  verVistaDetalle
+[WARN]  TiUIScrollView: (main) [56065,102425] Scroll direction could not be determined based on the provided view properties. Default VERTICAL scroll direction being used. Use the 'scrollType' property to explicitly set the scrolling direction.
+[ERROR] TiDrawableReference: (pool-3-thread-1) [56,102481] Problem opening stream with url /images/ordenDown.png: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:319)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [142,102623] Problem opening stream with url /images/ordenDown.png: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [102,102725] Problem opening stream with url /images/ordenDown.png: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [103,102828] Problem opening stream with url /images/ordenDown.png: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [132,102960] Problem opening stream with url /images/ordenDown.png: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[ERROR] TiDrawableReference: (pool-3-thread-1) [104,103064] Problem opening stream with url /images/ordenDown.png: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference: java.io.FileNotFoundException: Resources/images/ordenDown.png
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.openAsset(Native Method)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:313)
+[ERROR] TiDrawableReference:    at android.content.res.AssetManager.open(AssetManager.java:287)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiFileHelper.openInputStream(TiFileHelper.java:222)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getInputStream(TiDrawableReference.java:863)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:346)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.view.TiDrawableReference.getBitmap(TiDrawableReference.java:303)
+[ERROR] TiDrawableReference:    at org.appcelerator.titanium.util.TiLoadImageManager$LoadImageJob.run(TiLoadImageManager.java:128)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+[ERROR] TiDrawableReference:    at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+[ERROR] TiDrawableReference:    at java.lang.Thread.run(Thread.java:818)
+[WARN]  TiDrawableReference: (pool-3-thread-1) [0,103064] Could not open stream to get bitmap
+[DEBUG] Window: Checkpoint: postWindowCreated()
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[INFO]  Choreographer: Skipped 44 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] [BICE SERV] HTTP STATUS: 200
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":1,"glosaEstado":"Operacion Exitosa"},"listadoFondosMutuos":[{"codigoFondo":10,"nombreFondo":"ACC ASIA","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":33,"nombreFondo":"ACC CHILE ACT","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":22,"nombreFondo":"ACC CHILE MCAP","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":8,"nombreFondo":"ACC CHILE SELEC","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":38,"nombreFondo":"ACC COLOMBIA","tipoInversion":"NORMAL","nivelRiesgo":"5","colorRiesgo":"A72B2A"},{"codigoFondo":7,"nombreFondo":"ACC EUROPA","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":52,"nombreFondo":"ACC INDIA","tipoInversion":"NORMAL","nivelRiesgo":"5","colorRiesgo":"A72B2A"},{"codigoFondo":16,"nombreFondo":"ACC LATAM PACIF","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":14,"nombreFondo":"ACC MDOS EMERG","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":37,"nombreFondo":"ACC MUNDO ACT","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":5,"nombreFondo":"ACC NORTEAME","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":30,"nombreFondo":"ACCIONES BRASIL","tipoInversion":"NORMAL","nivelRiesgo":"5","colorRiesgo":"A72B2A"},{"codigoFondo":6,"nombreFondo":"ACCIONES CHILE","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":47,"nombreFondo":"ACCIONES JAPON","tipoInversion":"NORMAL","nivelRiesgo":"5","colorRiesgo":"A72B2A"},{"codigoFondo":29,"nombreFondo":"ACCIONES MEXICO","tipoInversion":"NORMAL","nivelRiesgo":"5","colorRiesgo":"A72B2A"},{"codigoFondo":44,"nombreFondo":"ACCIONES PERU","tipoInversion":"NORMAL","nivelRiesgo":"5","colorRiesgo":"A72B2A"},{"codigoFondo":26,"nombreFondo":"COMMODITIES","tipoInversion":"NORMAL","nivelRiesgo":"5","colorRiesgo":"A72B2A"},{"codigoFondo":28,"nombreFondo":"EST AGRESIVA","tipoInversion":"NORMAL","nivelRiesgo":"4","colorRiesgo":"CF7F00"},{"codigoFondo":4,"nombreFondo":"EST BALANCEADA","tipoInversion":"NORMAL","nivelRiesgo":"3","colorRiesgo":"CFB023"},{"codigoFondo":13,"nombreFondo":"EST CONSERV","tipoInversion":"NORMAL","nivelRiesgo":"2","colorRiesgo":"A8AD00"},{"codigoFondo":27,"nombreFondo":"EST MAS AGRESIV","tipoInversion":"NORMAL","nivelRiesgo":"5","colorRiesgo":"A72B2A"},{"codigoFondo":39,"nombreFondo":"EST MAS CONSERV","tipoInversion":"NORMAL","nivelRiesgo":"1","colorRiesgo":"7A99AC"},{"codigoFondo":1,"nombreFondo":"LIQUIDEZ PESOS","tipoInversion":"NORMAL","nivelRiesgo":"1","colorRiesgo":"7A99AC"},{"codigoFondo":35,"nombreFondo":"RENTA CORTO PLZ","tipoInversion":"NORMAL","nivelRiesgo":"2","colorRiesgo":"A8AD00"},{"codigoFondo":53,"nombreFondo":"RENTA LARGO PLZ","tipoInversion":"NORMAL","nivelRiesgo":"2","colorRiesgo":"A8AD00"},{"codigoFondo":2,"nombreFondo":"RENTA PESOS","tipoInversion":"NORMAL","nivelRiesgo":"2","colorRiesgo":"A8AD00"},{"codigoFondo":9,"nombreFondo":"RENTA UF","tipoInversion":"NORMAL","nivelRiesgo":"2","colorRiesgo":"A8AD00"},{"codigoFondo":45,"nombreFondo":"TENDENCIAS","tipoInversion":"NORMAL","nivelRiesgo":"3","colorRiesgo":"CFB023"},{"codigoFondo":48,"nombreFondo":"TENDENCIAS DEUD","tipoInversion":"NORMAL","nivelRiesgo":"2","colorRiesgo":"A8AD00"},{"codigoFondo":3,"nombreFondo":"TESORERIA","tipoInversion":"NORMAL","nivelRiesgo":"1","colorRiesgo":"7A99AC"}]}}
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[INFO]  Choreographer: Skipped 49 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[INFO]  Choreographer: Skipped 50 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] [BICE SERV] HTTP STATUS: 200
+[DEBUG] [BICE SERV] JSON RESPONSE: {"respuesta":{"estado":{"codigoEstado":"1","glosaEstado":"Operacion Exitosa"},"saldo":{"titulo":"Disponible para girar","monto":"3502","montoFormateado":"$ 3.502","detalleAvanceNacional":null,"detalleFacturacion":null,"detalle":[{"nombre":"Cuenta Corriente","saldos":[{"descripcion":"Saldo disponible","monto":"$ -1.996.498","codigoMoneda":"000"},{"descripcion":"Saldo contable","monto":"$ -1.996.498","codigoMoneda":"000"}]},{"nombre":"Línea de sobregiro","saldos":[{"descripcion":"Monto disponible","monto":"$ 3.502","codigoMoneda":"000"},{"descripcion":"Monto aprobado","monto":"$ 2.000.000","codigoMoneda":"000"}]}],"textoInfo":null}}}
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[DEBUG] HTTPClient: The persistent handle is disposed.
+[INFO]  Choreographer: Skipped 57 frames!  The application may be doing too much work on its main thread.
+[DEBUG] EGL_emulation: eglMakeCurrent: 0xa9b87da0: ver 2 0 (tinfo 0xaf830240)
+[ERROR] Surface: getSlotFromBufferLocked: unknown buffer: 0x9a06f780
+[DEBUG] Window: Window is closed normally.
+[DEBUG] Window: Window is closed normally.
+[INFO]  Choreographer: Skipped 37 frames!  The application may be doing too much work on its main thread.
+[INFO]  APSAnalyticsService: Analytics Service Started
+[INFO]  APSAnalyticsService: Stopping Analytics Service
+^[[1;10C[INFO]  Choreographer: Skipped 35 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 50 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 45 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 39 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 57 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 43 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 47 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 39 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 32 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 39 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 41 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 32 frames!  The application may be doing too much work on its main thread.
+[INFO]  Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
